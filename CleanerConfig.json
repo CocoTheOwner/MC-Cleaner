@@ -1,0 +1,20 @@
+{
+  "skipConfirm": true,
+  "printDeletedFolders": true,
+  "printRemainingFolders": true,
+  "printDeletedFiles": true,
+  "printRemainingFiles": false,
+  "blacklist": [],
+  "extensions": [
+    ".jar",
+    ".bat"
+  ],
+  "folders": [
+    "packs"
+  ],
+  "serverFolder": "C:\\Users\\sjoer\\Documents\\VolmitSoftware\\Iris\\.TestServer",
+  "files": [
+    "eula.txt",
+    "server.properties"
+  ]
+}

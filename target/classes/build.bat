@@ -1,0 +1,1 @@
+jar cfm Cleaner.jar MANIFEST.mf *.class
